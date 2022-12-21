@@ -1,0 +1,37 @@
+<response>
+    <result>
+        <data>
+            <auth_session>
+                <user>
+                    <user>customer</user>
+                    <context>1</context>
+                </user>
+                <hash>9b4b36ff-2bed-41c8-8471-6ede5d2873dd</hash>
+                <ip>192.168.0.254</ip>
+                <user_agent></user_agent>
+                <timeout>10</timeout>
+                <language>de</language>
+                <valid_until>2015-12-09 15:03:33</valid_until>
+                <owner>
+                    <user>customer</user>
+                    <context>4</context>
+                </owner>
+                <updater>
+                    <user>customer</user>
+                    <context>4</context>
+                </updater>
+                <id>17</id>
+                <created>2015-12-09 14:53:33</created>
+                <updated>2015-12-09 14:53:33</updated>
+            </auth_session>
+        </data>
+        <status>
+            <code>S1321001</code>
+            <type>success</type>
+            <object>
+                <type>user</type>
+                <value>customer, 4</value>
+            </object>
+        </status>
+    </result>
+</response>

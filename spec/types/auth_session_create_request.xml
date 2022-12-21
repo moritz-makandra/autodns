@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<request>
+  <auth>
+    <user>customer</user>
+    <password>test</password>
+    <context>4</context>
+  </auth>
+  <task>
+    <code>1321001</code>
+  </task>
+</request>

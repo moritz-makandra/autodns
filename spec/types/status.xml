@@ -1,0 +1,11 @@
+<response>
+    <status>
+        <code>S1321001</code>
+        <type>success</type>
+        <text>Die Benachrichtigung wurde erfolgreich abgerufen.</text>
+        <object>
+            <type>user</type>
+            <value>customer, 4</value>
+        </object>
+    </status>
+</response>
